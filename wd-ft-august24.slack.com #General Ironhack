@@ -1,0 +1,981 @@
+wd-ft-august24.slack.com bootcamp
+
+
+#general
+
+Rocío
+  12:32 PM
+joined #general. Also, Juan Palazzo
+ and 5 others joined.
+
+
+Rocío
+  11:49 AM
+@channel
+Welcome Ironhackers, happy to see you all here! :bowtie: @channel
+:spiral_calendar_pad: Schedule
+:large_orange_circle:Module 0, 19th of August - Mandatory to attend.
+Module 0 will have the same schedule as the bootcamp and will be done remotely. You will be in class on zoom from 9am to 6pm.
+:large_blue_circle:Bootcamp classes, Monday 26th August.
+If you want to feel more prepared for the bootcamp, we encourage you to practice with HTML and CSS (you can find that info in the emails that I sent to you previously).
+:pushpin: You’ll find the Zoom links for M0, Bootcamp classes, and the rest of the useful information pinned at the top of this channel.
+Wishing you the best!!:rocket:
+
+
+Favas Muhammed
+  12:00 PM
+joined #general. Also, Daniel Skonetzky
+ joined.
+
+
+Alexandro Lastra
+  9:01 AM
+Good Morning, Class
+:raised_hands:
+1
+
+
+
+Rocío
+  11:45 AM
+Good morning, Ironhackers, @channel
+Hope you all had an amazing Module 0 week, and if it’s harder than you expected, don’t panic please - it’s just the beginning, and trust yourself and the reasons why you’re here:blush:
+:pray:I’d like to ask you to please fill out this survey by today.
+It’s super essential for us to get to know you a bit before the bootcamp starts so we can adapt the class and support you as much as possible, given the methodology and pace of the bootcamp. Also, we have a small class so it would be more personalised.
+Thank you for your collaboration and hope you all have a good day.
+:white_check_mark:
+2
+
+
+
+Rocío
+  9:21 AM
+Good morning Ironhackers, @channel
+We’re still missing some responses, so please don’t forget to fill out this survey by this morning:blue_heart:
+Thank you
+
+
+Rocío
+  3:10 PM
+@channel
+Module 0 has almost finished which means, Monday is your official first day! :female-astronaut: :rocket:
+Day :one:: You all have received your invite for next Monday at 9:00, but you can also find it here (and pinned) the link for that day and the entire bootcamp from now on. We will start on Monday with a short presentation where I’ll be explaining guidelines, tips, and expectations + you’ll also meet the career services. Then, you’ll start your official first day of class with your Lead teacher 
+@Mat
+ :raised_hands:.
+Have a great weekend and good luck with your assessments, and please, don’t panic if you don’t understand something, you’re here to learn :computer:
+:blue_heart:
+1
+:slightly_smiling_face:
+1
+
+
+
+Rocío
+  9:00 AM
+Good morning everyone! @channel
+We’re about to start the Day :one: here :blue_heart:
+
+
+Alexandro Lastra
+  9:00 AM
+Good Morning, Rocio. Do you have a link for a meeting room?
+
+1 reply
+2 months agoView thread
+Pinned by 
+Rocío
+
+
+Rocío
+  9:41 AM
+:heart:Thank you very much for your time during the Day 1 introduction.
+Let me share with you a quick recap of important info to bear in mind:
+:slack:Slack channels:
+#general for Mat and for me to post important information for the class
+#ask-for-support You can ask here your questions and Mat will be able to help you
+#ask-the-class Feel free to ask anything you need and your classmates can help too
+#random To share any meme or random stuff with your class. This is your space to be creative and fun!
+#remote-experience Our channel to post reminders for our activities, talks, etc
+:mortar_board:Expectations and Guidelines:
+Attendance: Do not miss more than 3 classes. 3 absences mean non-graduate. But if you need to be absent please reach out to 
+@Mat
+ and :woman-raising-hand::skin-tone-3: send proof to me (medical note, job interview email, etc) in order to mark you as an excuse and not as an absence.
+How to be in class: Have your camera ON and Mics OFF during lecture time, ON during questions. We aim to replicate this bootcamp as a professional environment:star2:.
+Follow our project requirements - (ie. group work)
+For anything related to Career Advisor please take a look at your mailbox who your advisor will be and contact them, if you cannot find them, let me know.
+:woman_in_lotus_position::skin-tone-3::thought_balloon: Book a 1:1:
+As we mentioned on the Day 1 presentation, feel free to ask me for a 1:1 here if you need a moment to vent, feedback to share, or anything similar like that.
+Let’s enjoy and make the most out of this experience:bouquet::hugging_face:
+
+1 reply
+2 months agoView thread
+
+
+Mat
+  11:52 AM
+@Alexandro Lastra
+ 
+@Eduard
+, did you find the zoom link ? If no => https://ironhack.zoom.us/j/92091755324?pwd=R0lZaEM1T0g0UUdmNC9WRmMrYkJWQT09#success
+
+1 reply
+2 months agoView thread
+
+
+Rocío
+  12:18 PM
+replied to a thread:
+@Alexandro Lastra @Eduard, did you find the zoom link ? If no => https://ironhack.zoom.us/j/92091755324?pwd=R0lZaEM1T0g0UUdmNC9WRmMrYkJWQT09#success
+It’s pinned at the top of this channel, guys! :smiley:
+Screenshot 2024-08-26 at 12.18.09.png
+ 
+Screenshot 2024-08-26 at 12.18.09.png
+
+
+Eduard
+  12:31 PM
+Yes, yes I know, zoom wanted to update :slightly_smiling_face:
+
+
+Mat
+  12:35 PM
+@channel You can also find the link to the Codepen collection at the top of this channel now ! Remember to check your Resources for today on the student portal (you probably need to refresh) and I'll keep you updated here when the recording will be available :cat:
+:+1:
+2
+
+
+
+Mat
+  1:56 PM
+@channel The recording is now available :movie_camera:
+2:00
+@channel I also gave you bad information this morning, to get back the feedback on your labs you need to do a pull request (PR) with a specific name. You can find how to do that on your student portal on the Tips & tricks for success (before the Week 1) in the Labs Guide
+
+
+Mat
+  10:00 AM
+@channel The game for now https://flukeout.github.io/
+flukeout.github.ioflukeout.github.io
+CSS Diner
+A fun game to help you learn and practice CSS selectors. (71 kB)
+https://flukeout.github.io/
+
+
+
+Mat
+  4:12 PM
+@channel The recording is now available :movie_camera:
+:raised_hands:
+2
+
+
+
+Rocío
+  12:36 PM
+replied to a thread:
+:heart:Thank you very much for your time during the Day 1 introduction.…
+Hello team!
+New day, new reminder:sparkles::sparkles::sparkles:
+Don’t forget you can find useful info to keep in mind pinned at the top of this channel.
+Have a wonderful day
+
+
+Mat
+  2:01 PM
+@channel The recording is now available :movie_camera:
+:+1:
+2
+
+
+
+Rocío
+  9:43 AM
+Good morning Ironhackers, @channel
+The first week is almost done :rocket: and I hope you had a great one!!
+:writing_hand:As I explained in the Day 1 presentation, every Friday (at 12pm) you will need to complete a survey in your student portal telling us how the week was for you, how well-supported you were, any feedback you would like to comment on…this is your space to share your emotions and thoughts. 
+@Mat
+ will give you a couple of minutes during the day to complete it.
+:white_heart:I’ll be the one who reviews the survey every week to see how’s everything going and if we can take action on any of your feedback.
+As you may already know, if anything you can also reach out to me for 1:1 here, but also I’ll be the one to ask you for those meetings to get to you a bit better, and to ask you about your experience so far.
+Having said that, enjoy this weekend, you deserve it, and thanks for your collaboration!
+CalendlyCalendly
+Rocío Díaz
+Welcome to my scheduling page. Please follow the instructions to add an event to my calendar. (13 kB)
+https://calendly.com/rocio-diaz-pm
+
+:raised_hands:
+1
+
+
+
+Mat
+  2:50 PM
+@channel The recording is now available :movie_camera: As well as the assessment  :memo: ! Please take the time to complete it before monday 9am, and remember you should be doing that alone. You can use any tool at your disposal though but make sure you understand what the tool does :wink:
+:muscle:
+1
+
+
+
+Kevin
+  2:44 PM
+Hey everyone, if you’re having a bit of trouble (like me) with objects , I recommend trying out the Cluedo lab. I just finished it, and it was REALLY helpful. Enjoy your sunday :raised_hands:
+:raised_hands:
+2
+:star2:
+1
+
+
+
+6 replies
+Last reply 2 months agoView thread
+
+
+Rocío
+  10:21 AM
+Good morning Ironhackers! @channel
+Happy 2nd week:blue_heart:
+:rotating_light:Regarding the AI feedback: if you encounter any issue when receiving the feedback please always indicate it by giving :+1: or :-1: directly. That way, the Product team can take a look at your issue and fix it.
+Thank you for your collaboration!
+Ie:
+image (32).png
+ 
+image (32).png
+:+1:
+1
+
+
+
+Mat
+  2:40 PM
+@channel The recording is now available :movie_camera:
+Pinned by 
+Rocío
+
+
+Rocío
+  3:28 PM
+:cinema: Hey team, I would like to take the opportunity to talk about having camera on during classes:
+:people_hugging: Since we’re remote, it’s super easy to get distracted, especially if you have the camera off. It’s also beneficial for the teaching team + staff to be able to read your face and expressions in order to help you when you have doubts during the class, but also to build positive, natural, and real communication even though we’re online. This goes not only for the Ironhack team but also for your classmates.
+:star2: We aim to replicate the bootcamp experience as a professional environment because after the bootcamp, you’ll be ready to start working in a company, so here is the place to start with that foundation.
+:blue_heart:There will be moments when you need to turn the camera off for any specific reason, and that’s fine. But please, don’t make it a habit. The habit should be to turn your camera on.
+Let’s try to create a healthy, positive, and real environment, we’re the generation of digital nomads and our communication can be just as effective as if we were working in the same room (or even better!).
+Thank you so much for your collaboration, team.
+:raised_hands:
+3
+
+
+
+Mat
+  5:12 PM
+@channel The recording is now available :movie_camera:
+
+
+Mat
+  2:44 PM
+@channel The recording is now available :movie_camera:
+
+
+Mat
+  1:47 PM
+@channel The recording is now available :movie_camera:
+
+
+Mat
+  2:49 PM
+@channel The recording from this morning is now available :movie_camera: Also the code repos :male-technologist:
+
+
+Mat
+  3:07 PM
+@channel The assessments are now available (yes there is 2). You have until monday 9am to complete them, just remember that once you open it you have to finish it as there is a time constraint. As before, no help can be given by other people or me but you can use all the tools you want.
+
+
+Mat
+  9:09 AM
+@channel The katas for this morning
+Calculate average (8 kyu): https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript
+String repeat (8 kyu): https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript
+(bonus) List Filtering (7 kyu): https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript
+CodewarsCodewars
+Training on Calculate average
+Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential. (39 kB)
+https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript
+
+CodewarsCodewars
+Training on String repeat
+Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential. (39 kB)
+https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript
+
+CodewarsCodewars
+Training on List Filtering
+Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential. (39 kB)
+https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript
+
+
+
+Mat
+  9:02 AM
+@channel Here's the katas for today
+Use map() to double the values in an array (7 kyu): https://www.codewars.com/kata/53951fff369894e4f10007a9/train/javascript
+HOF - Count the number of JavaScript developers coming from Europe (7 kyu): https://www.codewars.com/kata/582746fa14b3892727000c4f/train/javascript
+(bonus): Isograms (7 kyu): https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript
+CodewarsCodewars
+Training on Use map() to double the values in an array
+Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential. (39 kB)
+https://www.codewars.com/kata/53951fff369894e4f10007a9/train/javascript
+
+CodewarsCodewars
+Training on Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe
+Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential. (39 kB)
+https://www.codewars.com/kata/582746fa14b3892727000c4f/train/javascript
+
+CodewarsCodewars
+Training on Isograms
+Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential. (39 kB)
+https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript
+
+
+
+Mat
+  12:16 PM
+@channel Just a reminder for this afternoon at 4pm CET
+Join us for a session where you can polish up your CV and LinkedIn profile while getting advice from our Career Advisors!
+It's the ideal opportunity to fine-tune your profile drafts and get them primed for review by your dedicated Career Advisor. Don't let this chance pass you by!
+Remember, this is an open space with no agenda, so feel free to bring any burning questions you have. Let's launch your career journey together!
+Carolina Rodrigues is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://ironhack.zoom.us/j/3302323017?omn=96869461965
+:sparkles:
+1
+:blue_heart:
+1
+:raised_hands:
+1
+
+
+
+Eduard
+  4:16 PM
+I think its a wrong link
+
+
+Mat
+  9:24 AM
+@Favas Muhammed
+ 
+@Alexandro Lastra
+ I still need your github repo links please
+
+1 reply
+2 months agoView thread
+
+
+Alexandro Lastra
+  9:26 AM
+https://alexandrolastra.github.io/project1/
+9:26
+https://github.com/alexandrolastra/project1
+
+GitHubGitHub
+GitHub - alexandrolastra/project1
+Contribute to alexandrolastra/project1 development by creating an account on GitHub.
+:raised_hands:
+1
+
+
+
+Mat
+  9:28 AM
+@channel The recording on how to deploy is available
+
+
+Mat
+  9:00 AM
+@channel Katas for this morning
+Remove First and Last Character (8 kyu): https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript
+HOF - Find GitHub admins (7 kyu): https://www.codewars.com/kata/582dace555a1f4d859000058/train/javascript
+(bonus) HOF - Find the first Python developer (7 kyu): https://www.codewars.com/kata/5827bc50f524dd029d0005f2/train/javascript
+
+
+Mat
+  10:54 AM
+@channel Here's the random order for the presentations at 2pm today
+Eddie
+Kevin
+Favas
+Alexandro
+:+1:
+4
+:sparkles:
+1
+
+
+
+Kevin
+  2:38 PM
+sivva2.github.io/Web-head-Dash/
+
+
+Kevin
+  2:56 PM
+If you guys can, send me your game so i can try it out !
+
+
+Alexandro Lastra
+  2:57 PM
+Aok
+2:57
+https://alexandrolastra.github.io/Project1/
+2:59
+check it out. Today I woke up with a 404 but I redeployed this morning to the presentation. Let me know if it runs fine on yours
+
+
+Mat
+  12:31 PM
+@channel The recording is now available :movie_camera:
+:raised_hands:
+1
+
+
+
+Mat
+  2:58 PM
+@channel The recording is now available :movie_camera:
+:raised_hands:
+1
+
+
+
+Mat
+  2:10 PM
+@channel The recording is now available :movie_camera:
+
+
+Mat
+  2:54 PM
+@channel The recording is now available :movie_camera:
+
+
+Rocío
+  12:13 PM
+Hey everyone, @channel
+:no_bell: I’ll be ooo next Monday and Tuesday, but I’ll be back on Wednesday. So anything you need please go directly to 
+@Mat
+ or wait for me when I’m back.
+If you feel a bit low or stressed, don’t forget this is part of the process and everything will be okay:roller_coaster: :blue_heart:
+Wish you a wonderful weekend!
+:raised_hands:
+2
+
+
+
+Mat
+  1:42 PM
+@channel The recording is now available :movie_camera:
+
+
+Mat
+  12:47 PM
+@channel The recording is now available :movie_camera:
+
+
+Mat
+  11:27 AM
+@channel Remember to send me a DM to tell me if you wish to work in a team for the second project and if so with whom :wink:
+
+
+Mat
+  1:29 PM
+@channel The recording is now available :movie_camera:
+:white_check_mark:
+1
+:pray:
+1
+
+
+
+Mat
+  11:38 AM
+Ran out of battery
+
+
+Kevin
+  11:38 AM
+Do we stop the recording and go on the lab ?
+
+
+Mat
+  11:39 AM
+Yes please
+11:39
+Here's the repo for the code tho https://github.com/Doomfang3/crudIntro-Aug24
+GitHubGitHub
+GitHub - Doomfang3/crudIntro-Aug24
+Contribute to Doomfang3/crudIntro-Aug24 development by creating an account on GitHub.
+:white_check_mark:
+1
+
+
+
+Kevin
+  11:39 AM
+Thanks
+
+
+Alexandro Lastra
+  4:30 PM
+Are you able to up load today's recording, 
+@Mat
+ ?
+
+
+Eduard
+  4:35 PM
+You can find today's assignment in the github repo.
+:white_check_mark:
+1
+
+
+
+Mat
+  4:45 PM
+Sorry I forgot to put a message but I did make it available at 1
+
+
+Kevin
+  4:55 PM
+Little problem, only on our about page there's a gap between the nav bar and the top of the page
+2 files
+ 
+image.png
+image.png
+
+
+20 replies
+Last reply 1 month agoView thread
+
+
+Eric Coimbra TA
+  6:09 PM
+joined #general.
+
+
+Mat
+  2:54 PM
+@channel The recording is now available :movie_camera:
+:raised_hands:
+1
+
+
+
+Mat
+  8:53 AM
+@channel sorry class, I'm running a bit late
+:ok_hand:
+1
+
+
+
+Mat
+  12:01 PM
+@channel The mantine template to play around with and to use to initialize your M2 project if you want to use Mantine https://github.com/Doomfang3/mantine-vite-javascript
+GitHubGitHub
+GitHub - Doomfang3/mantine-vite-javascript
+Contribute to Doomfang3/mantine-vite-javascript development by creating an account on GitHub. (99 kB)
+https://github.com/Doomfang3/mantine-vite-javascript
+
+
+
+Mat
+  12:26 PM
+@channel The recording is now available :movie_camera:
+
+
+Eric Coimbra TA
+  2:33 PM
+https://docs.google.com/presentation/d/1bET7tC5AtSoBV-Dy28RYdd7lVO8U2IWm/edit?usp=sharing&ouid=104358300725268768573&rtpof=true&sd=true
+Here's the project kick-off presentation. Be sure to check the project and slide examples, along with the git  cheat sheet in there :mage:
+:raised_hands:
+1
+
+
+
+Mat
+  9:05 AM
+@channel The katas for this morning
+Count the Monkeys! (8 kyu): https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/train/javascript
+Vowel Count (7 kyu): https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript
+(bonus): Detect Pangram (6 kyu): https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/javascript
+
+
+Kevin
+  11:28 AM
+Hey mat, for mantine is it better to handle it at the end or try to use it while we'r creating the component and pages
+
+
+Mat
+  11:31 AM
+It's easier to start with it directly, that's why I made the template for you to use. It's not impossible to add it at the end but it may be more complex.
+:ok_hand:
+1
+
+
+
+Mat
+  12:21 PM
+@channel Just a reminder that tomorrow at 4pm CET you have a meeting with the career team. Here's the content of the email I've got but make sure to communicate in case there's a meeting problem again :wink:
+ Join us for a session where you can polish up your CV and LinkedIn profile while getting advice from our Career Advisors!
+It's the ideal opportunity to fine-tune your profile drafts and get them primed for review by your dedicated Career Advisor. Don't let this chance pass you by!
+Remember, this is an open space with no agenda, so feel free to bring any burning questions you have. Let's launch your career journey together!
+──────────
+Carolina Rodrigues is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://ironhack.zoom.us/j/3302323017?omn=93523491688
+Meeting ID: 330 232 3017
+:blue_heart:
+1
+:sparkles:
+1
+:rocket:
+1
+:raised_hands:
+1
+
+
+
+Rocío
+  12:56 PM
+Hey everyone, @channel
+:no_bell: I’ll be ooo this week from tomorrow until next Monday.
+So anything you need please go directly to your amazing teaching team.
+Wishing you a great week!
+:palm_tree:
+1
+
+
+
+Mat
+  9:06 AM
+@channel The katas for this morning
+ersed Strings (8 kyu): https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/javascript
+Multiples and Digit Sums (7 kyu): https://www.codewars.com/kata/58ca77b9c0d640ecd2000b1e/train/javascript
+(bonus) Bumps in the Road (7 kyu): https://www.codewars.com/kata/57ed30dde7728215300005fa/train/javascript
+
+
+Mat
+  9:39 AM
+How to deploy to Vercel https://gist.github.com/Marshall-Bits/664ef4b4f87607eb96d3e12a840adfec
+
+
+Mat
+  10:22 AM
+@channel The recording is now available :movie_camera:
+
+
+Mat
+  9:04 AM
+@channel The CSS katas for this morning
+CSS Kata - Battle #1. Target #1 Simply Square: https://cssbattle.dev/play/1
+CSS Kata - Battle #1. Target #2 Carrom: https://cssbattle.dev/play/2
+CSS Kata - Battle #6. Target #31 Equals: https://cssbattle.dev/play/31
+cssbattle.devcssbattle.dev
+Target #1 (Simply Square) - CSSBattle
+The funnest CSS game for web designers & developers (403 kB)
+https://cssbattle.dev/play/1
+
+cssbattle.devcssbattle.dev
+Target #2 (Carrom) - CSSBattle
+The funnest CSS game for web designers & developers (402 kB)
+https://cssbattle.dev/play/2
+
+cssbattle.devcssbattle.dev
+Target #31 (Equals) - CSSBattle
+The funnest CSS game for web designers & developers (407 kB)
+https://cssbattle.dev/play/31
+
+
+
+Eric Coimbra TA
+  2:00 PM
+@channel Order of presentations:
+Eddie
+Favas
+Alexandro & Kevin
+Sorry for the late reveal, but it keeps the fun high :wink:
+:raised_hands:
+1
+
+
+
+Mat
+  11:15 AM
+@channel The recording is now available :movie_camera:
+
+
+Mat
+  8:53 AM
+@channel sorry I'm gonna be a few minutes late
+
+
+Mat
+  12:40 PM
+@channel I'm super impressed by Zoom ! The recording is now available :movie_camera:
+:eyes:
+1
+:raised_hands:
+3
+
+
+
+Mat
+  1:03 PM
+@channel The recording is now available :movie_camera:
+
+
+Alexandro Lastra
+  3:51 PM
+Hi everyone I am back online.
+
+
+Mat
+  9:13 AM
+I'm rebooting, everything was crashing
+:+1:
+1
+
+
+
+Mat
+  11:32 AM
+@channel The code repo is available, remember that you need to have an .env file to make it work properly with the correct variables like TOKEN_SECRET :wink:
+
+
+Mat
+  2:04 PM
+@channel The recording is now available :movie_camera:
+
+
+Eric Coimbra TA
+  2:04 PM
+@channel Good afternoon everyone! I've opened the assessment for you to do it today until 6pm. Do remember that once you've started it, you have 3 hours to complete it. If any problems arise while doing it, make sure to message me. I'll let you know if it's a technical issue with the assessment or a mistake on your part (We can help with issues on the assessment part, but not mistakes on your part). Have fun!
+:+1:
+2
+
+
+
+Kevin
+  4:46 PM
+@Eduard
+ 
+@Alexandro Lastra
+ 
+@Favas Muhammed
+ I finished the assessment, ready when you are (edited) 
+
+
+Favas Muhammed
+  4:46 PM
+i will take 15 mins more to finish i think... (edited) 
+
+
+Favas Muhammed
+  4:58 PM
+i'm also done with the assessment
+
+
+Alexandro Lastra
+  5:00 PM
+I have like 35 min left
+
+
+Kevin
+  5:01 PM
+Come on my room when you guys are ready
+
+
+Mat
+  1:28 PM
+@channel The recording is now available :movie_camera:
+:raised_hands:
+1
+
+
+
+Eric Coimbra TA
+  5:28 PM
+@channel I completely forgot to share this with you, but still, here goes, the slides of the kick-off:
+https://docs.google.com/presentation/d/14V2lvYLyjK9kZybh41ZcxuxW_XzIsbDL/edit?usp=sharing&ouid=104358300725268768573&rtpof=true&sd=true
+
+
+Mat
+  9:02 AM
+@channel The katas for this morning
+In pairs:
+Sum without highest and lowest number (8 kyu): https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/javascript
+The Feast of Many Beasts (8 kyu): https://www.codewars.com/kata/5aa736a455f906981800360d/train/javascript
+(bonus) Bit Counting (6 kyu): https://www.codewars.com/kata/526571aae218b8ee490006f4/train/javascript
+
+
+Mat
+  9:05 AM
+@channel The katas for this morning
+In pairs:
+Abbreviate a Two Word Name (8 kyu): https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/javascript
+Complementary DNA (7 kyu): https://www.codewars.com/kata/complementary-dna/javascript
+(bonus) Playing with digits (6 kyu) https://www.codewars.com/kata/playing-with-digits/train/javascript
+CodewarsCodewars
+Complementary DNA
+Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and carries the "instructions" for the development and functioning of living organisms.
+If you want to know more: http://en... (39 kB)
+https://www.codewars.com/kata/complementary-dna/javascript
+
+
+
+Mat
+  9:04 AM
+@channel The katas for this morning
+Keep Hydrated! (8 kyu): https://www.codewars.com/kata/582cb0224e56e068d800003c/train/javascript
+Short Long Short (8 kyu): https://www.codewars.com/kata/50654ddff44f800200000007/train/javascript
+(bonus) Exes and Ohs (7 kyu): https://www.codewars.com/kata/55908aad6620c066bc00002a/train/javascript
+(bonus) Unique In Order (6 kyu): https://www.codewars.com/kata/54e6533c92449cc251001667/javascript
+CodewarsCodewars
+Unique In Order
+Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order o... (39 kB)
+https://www.codewars.com/kata/54e6533c92449cc251001667/javascript
+
+
+
+Mat
+  8:55 AM
+Sorry again guys I'm gonna be late a few minutes
+:+1:
+2
+
+
+
+Mat
+  9:14 AM
+@channel The katas for this morning
+Double Char (8 kyu): https://www.codewars.com/kata/56b1f01c247c01db92000076/train/javascript
+Inverting a Hash (7 kyu): https://www.codewars.com/kata/inverting-a-hash/train/javascript
+(bonus) Find the odd int (6 kyu): https://www.codewars.com/kata/find-the-odd-int/train/javascript
+
+
+Mat
+  9:05 AM
+@channel The katas for this morning
+PaginationHelper (refresh OOP) https://www.codewars.com/kata/515bb423de843ea99400000a/train/javascript
+(bonus) If you feel you need to improve CSS - Battle #5. Target #30. Horizon: https://cssbattle.dev/play/30
+(bonus) If you feel you're already good at problem solving and want to take it to the next level - Leetcode Two Sum: https://leetcode.com/problems/two-sum/description/
+cssbattle.devcssbattle.dev
+Target #30 (Horizon) - CSSBattle
+The funnest CSS game for web designers & developers (402 kB)
+https://cssbattle.dev/play/30
+
+
+
+Mat
+  9:04 AM
+@channel The katas for this morning
+Are You Playing Banjo? (8 kyu): https://www.codewars.com/kata/53af2b8861023f1d88000832/train/javascript
+Credit Card Mask (7 kyu): https://www.codewars.com/kata/credit-card-mask/javascript
+CodewarsCodewars
+Credit Card Mask
+Usually when you buy something, you're asked whether your credit card number, phone number or answer to your most secret question is still correct. However, since someone could look over your shoul... (39 kB)
+https://www.codewars.com/kata/credit-card-mask/javascript
+
+
+
+Mat
+  9:33 AM
+For the frontend, add a _redirects file in the public folder and add this line into it
+/* /index.html 200
+9:38
+@channel Some more katas for extra fun
+Bonus Set 1:
+Remove the time (8 kyu): https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e/train/javascript
+Get the mean of an array (8 kyu): https://www.codewars.com/kata/563e320cee5dddcf77000158/train/javascript
+(bonus) Street Fighter 2 - Character Selection (6 kyu): https://www.codewars.com/kata/street-fighter-2-character-selection/train/javascript
+Other Bonus Katas:
+Find The Parity Outlier (6 kyu): https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/javascript
+Array Exchange (6 kyu): https://www.codewars.com/kata/5353212e5ee40d4694001114/train/javascript
+Flatten (7 kyu): https://www.codewars.com/kata/5250a89b1625e5decd000413/train/javascript
+Your Order, please (6 kyu): https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/javascript
+Number of anagrams in an array of words (6 kyu): https://www.codewars.com/kata/587e18b97a25e865530000d8/train/javascript
+Disemvowel Trolls (7 kyu): https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript
+Slaphead (7 kyu): https://www.codewars.com/kata/57efab9acba9daa4d1000b30/train/javascript
+Switcheroo (7 kyu): https://www.codewars.com/kata/57f759bb664021a30300007d/train/javascript
+Valid Spacing (7 kyu): https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/train/javascript
+The Hashtag Generator (5 kyu): https://www.codewars.com/kata/52449b062fb80683ec000024/train/javascript
+Find the missing letter (6 kyu): https://www.codewars.com/kata/find-the-missing-letter/train/javascript
+Clocky Mc Clock-Face (6 kyu): https://www.codewars.com/kata/clocky-mc-clock-face/train/javascript
+Fake Binary (8 kyu): https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript
+Lost Without a Map (8 kyu): https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/javascript
+Valid Parentheses (5 kyu): https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript
+Bonus CSS Katas:
+Battle #2. Target 13. Totally Triangle: https://cssbattle.dev/play/13
+Battle #2. Target #18. Matrix: https://cssbattle.dev/play/18
+Battle #4. Target #26. Smiley: https://cssbattle.dev/play/26
+
+
+Mat
+  9:03 AM
+@Alexandro Lastra
+image.png
+ 
+image.png
+:raised_hands:
+1
+
+
+
+Eric Coimbra TA
+  6:03 PM
+@channel The presentation order for tomorrow:
+Favas
+Kevin & Alexandro
+Eduardo
+Remember the presentations start at 10am!
+Looking forward to seeing your projects! :ice_cube: (edited) 
+:crossed_fingers:
+2
+:blue_heart:
+1
+:rocket:
+2
+:star2:
+2
+:smiley:
+1
+
+
+
+Alexandro Lastra
+  11:05 AM
+https://www.linkedin.com/in/lastradev/
+
+fr.linkedin.comfr.linkedin.com
+Alexandro Lastra - Ville de Paris, Île-de-France, France | Profil professionnel | LinkedIn
+Formation : Ironhack · Lieu : Ville de Paris · 3 relations sur LinkedIn. Consultez le profil de Alexandro Lastra sur LinkedIn, une communauté professionnelle d’un milliard de membres.
+:blue_heart:
+1
+
+11:05
+This is my LinkedIn
+New
+
+
+Rocío
+  11:52 AM
+Good morning everyone,
+Congratulations on your fantastic projects:star-struck:!!!
+We really hope that even though was a huge challenge was worth it for you and you’ve had a cool experience to keep it in your memories. Just remember how you felt the first day during Module 0 and now everything you did and accomplished, :rocket: we knew you could reach it.
+:mortar_board:You will receive the diploma on Monday.
+:envelope_with_arrow:You have all received an email from my side mentioning the extra content and the career services. If you have any doubts regarding careers, please contact your advisor, if you don’t know who is, let me know.
+If you have any questions from now on please reach out to me via email.
+Time to celebrate! :blue_heart:
+:pray:
+1
+:tada:
+1
+
